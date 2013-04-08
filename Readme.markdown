@@ -7,4 +7,4 @@ If you just want to take a look at my preference and not copy everything, have a
 ## Install
 
     $ rm -rf ~/Library/Application \Support\Sublime\ Text\ 2
-    $ git clone https://github.com/soffes/sublime.git ~/Library/Application \Support\Sublime\ Text\ 2
+    $ git clone https://github.com/soffes/sublime.git ~/Library/Application\ Support\Sublime\ Text\ 2
