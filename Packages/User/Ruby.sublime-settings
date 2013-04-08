@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		"ru",
+		"podspec",
+		"Cheffile",
+		".irbrc"
+	]
+}
