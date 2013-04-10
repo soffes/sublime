@@ -20,11 +20,16 @@
 		"tmp",
 		"build",
 		"pkg",
-		"doc"
+		"doc",
+		".zeus.sock"
 	],
 	"font_face": "Menlo",
 	"font_size": 13.0,
 	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"theme": "Soda Light.sublime-theme",
