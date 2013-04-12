@@ -1,38 +1,37 @@
 {
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Tomorrow/Tomorrow.tmTheme",
-	"ensure_newline_at_eof_on_save": true,
-	"file_exclude_patterns":
-	[
-		".DS_Store",
-		".gitkeep",
-		"dump.rdb",
-		".rake_tasks~"
-	],
-	"folder_exclude_patterns":
-	[
-		".bundle",
-		".git",
-		".sass-cache",
-		".yardoc",
-		"coverage",
-		"log",
-		"tmp",
-		"build",
-		"pkg",
-		"doc",
-		".zeus.sock"
-	],
-	"font_face": "Menlo",
-	"font_size": 13.0,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"save_on_focus_lost": true,
-	"tab_size": 2,
-	"theme": "Soda Light.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/Theme - Tomorrow/Tomorrow.tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "file_exclude_patterns":
+  [
+    ".DS_Store",
+    ".gitkeep",
+    "dump.rdb",
+    ".rake_tasks~"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".bundle",
+    ".git",
+    ".sass-cache",
+    ".yardoc",
+    "coverage",
+    "log",
+    "tmp",
+    "build",
+    "pkg",
+    ".zeus.sock"
+  ],
+  "font_face": "Menlo",
+  "font_size": 13.0,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "save_on_focus_lost": true,
+  "tab_size": 2,
+  "theme": "Soda Light.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
 }
