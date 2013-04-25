@@ -4,6 +4,7 @@
 		"ru",
 		"podspec",
 		"Cheffile",
-		".irbrc"
+		".irbrc",
+		"Podfile"
 	]
 }

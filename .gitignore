@@ -7,6 +7,9 @@ Settings
 # Package Control Noise
 Packages/User/Package\ Control.*
 
+# Misc
+Backup
+
 # Stock packages
 Pristine Packages
 Packages/ASP
