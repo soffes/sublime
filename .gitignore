@@ -1,5 +1,6 @@
 # Settings only contains the license file and stuff about the session
 Settings
+Local
 
 # These are everywhere. We don't want git to track them
 *.cache
