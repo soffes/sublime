@@ -1,8 +1,0 @@
-[
-    {
-        "keys": [
-            "super+ctrl+j"
-        ], 
-        "command": "prettyjson"
-    }
-]

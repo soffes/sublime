@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Tomorrow/Tomorrow.tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -26,10 +26,6 @@
 	"font_face": "Menlo",
 	"font_size": 13.0,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
 	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"theme": "Soda Light.sublime-theme",

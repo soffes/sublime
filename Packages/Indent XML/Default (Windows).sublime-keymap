@@ -1,3 +1,0 @@
-[
-	{ "keys": ["ctrl+k", "ctrl+f"], "command": "auto_indent" }
-]
