@@ -26,15 +26,15 @@
 	"font_face": "Menlo",
 	"font_size": 13.0,
 	"highlight_modified_tabs": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"remember_open_files": false,
 	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"remember_open_files": false,
-	"hot_exit": false
+	"trim_trailing_white_space_on_save": true
 }
