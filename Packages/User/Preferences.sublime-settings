@@ -29,7 +29,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Pretty JSON"
 	],
 	"remember_open_files": false,
 	"save_on_focus_lost": true,
