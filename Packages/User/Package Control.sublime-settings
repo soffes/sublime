@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
@@ -7,10 +10,12 @@
 		"Handlebars",
 		"IcedCoffeeScript",
 		"Indent XML",
+		"Package Control",
 		"Pretty JSON",
 		"Ruby Slim",
 		"SCSS",
 		"SublimeERB",
+		"Swift",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
 	]
