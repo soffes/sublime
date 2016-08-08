@@ -21,9 +21,11 @@
 		"tmp",
 		"build",
 		"pkg",
-		".zeus.sock"
+		".zeus.sock",
+		"node_modules",
+		"_build"
 	],
-	"font_face": "Menlo",
+	"font_face": "SF Mono Regular",
 	"font_size": 14.0,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,

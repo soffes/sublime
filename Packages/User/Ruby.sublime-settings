@@ -5,6 +5,12 @@
 		"podspec",
 		"Cheffile",
 		".irbrc",
-		"Podfile"
+		"Podfile",
+		"Fastfile",
+		"Deliverfile",
+		"Appfile",
+		"Snapfile",
+		"resolved",
+		"Cartfile"
 	]
 }
