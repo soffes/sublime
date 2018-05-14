@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"SCSS",
 		"Stencil",
 		"Swift",
 		"Tomorrow Color Schemes"
