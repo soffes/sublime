@@ -13,4 +13,4 @@ Quit Sublime Text 3.
 
 Open Sublime Text 3. Enjoy.
 
-You may need to [manually install Package Control](https://sublime.wbond.net/installation).
+You may need to [manually install Package Control](https://packagecontrol.io/installation).
