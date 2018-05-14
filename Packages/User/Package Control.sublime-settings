@@ -5,22 +5,8 @@
 	],
 	"installed_packages":
 	[
-		"Better CoffeeScript",
-		"Dockerfile Syntax Highlighting",
-		"eco",
-		"Elixir",
-		"ElixirSublime",
-		"GitGutter",
-		"Handlebars",
-		"IcedCoffeeScript",
-		"Indent XML",
-		"Package Control",
-		"Pretty JSON",
-		"Ruby Slim",
-		"SCSS",
-		"SublimeERB",
+		"Stencil",
 		"Swift",
-		"Theme - Soda",
 		"Tomorrow Color Schemes"
 	]
 }

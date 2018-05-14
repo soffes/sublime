@@ -31,13 +31,11 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Pretty JSON",
 		"Vintage"
 	],
 	"remember_open_files": false,
 	"save_on_focus_lost": true,
 	"tab_size": 2,
-	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
