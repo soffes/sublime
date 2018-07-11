@@ -16,5 +16,29 @@
     "args": {
       "setting": "word_wrap"
     }
+  },
+  {
+    "keys": ["super+shift+j"],
+    "command": "reveal_in_side_bar"
+  },
+  {
+    "keys": ["super+0"],
+    "command": "toggle_side_bar"
+  },
+  {
+    "keys": ["super+p"],
+    "command": "show_overlay",
+    "args": {
+      "overlay": "goto",
+      "show_files": true
+    }
+  },
+  {
+    "keys": ["super+shift+y"],
+    "command": "show_panel",
+    "args": {
+      "panel": "console",
+      "toggle": true
+    }
   }
 ]
