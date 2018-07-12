@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Package Control",
 		"SCSS",
 		"Stencil",
 		"SublimeERB",
