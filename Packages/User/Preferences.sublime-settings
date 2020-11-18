@@ -26,7 +26,7 @@
 		"_build"
 	],
 	"font_face": "SF Mono Regular",
-	"font_size": 14.0,
+	"font_size": 15.0,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
